@@ -8,8 +8,7 @@ setup(
     author_email='itsakmak@envrio.org, nkokkos@envrio.org',
     packages=find_packages(),
     python_requires='>=3.12',
-    install_requires=[  
-        'envrio_logger>=0.1.0',
+    install_requires=[ 
         'boto3>=1.36.7'
     ],
     classifiers=[  
