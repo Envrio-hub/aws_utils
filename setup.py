@@ -9,7 +9,7 @@ setup(
     packages=find_packages(),
     python_requires='>=3.12',
     install_requires=[  
-        'envrio-logger>=0.1.0',
+        'envrio_logger>=0.1.0',
         'boto3>=1.36.7'
     ],
     classifiers=[  
