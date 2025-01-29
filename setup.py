@@ -9,7 +9,8 @@ setup(
     packages=find_packages(),
     python_requires='>=3.12',
     install_requires=[ 
-        'boto3>=1.36.7'
+        'boto3>=1.36.7',
+        'envrio_logger @ git+https://github.com/Envrio-hub/envrio_logger.git@0.1.0'
     ],
     classifiers=[  
         'Development Status :: 4 - Beta',
