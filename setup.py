@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='aws_utils',
+    name='envrio_aws_utils',
     version='1.1.0',
     description='A library that provides utilities to manage AWS Secrets Manager and Key Management Service',
     author='Ioannis Tsakmakis, Nikolaos Kokkos',
