@@ -10,6 +10,5 @@ envrio_logger = {ref = "0.1.0", git = "https://github.com/Envrio-hub/envrio_logg
 [dev-packages]
 
 [requires]
-[requires]
 python_version = "3.12"
 python_full_version = "3.12.8"
