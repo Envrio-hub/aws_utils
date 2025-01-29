@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+boto3 = "==1.36.7"
+envrio-logger = {ref = "0.1.0", git = "https://github.com/Envrio-hub/envrio_logger.git"}
+
+[dev-packages]
+
+[requires]
+python_version = "3.13"
